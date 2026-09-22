@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Atraso de Projetos",
+  "description": "Aplicativo visual para planejar projetos, calcular o caminho crítico e simular o impacto cascata de atrasos em tarefas no cronograma total.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
